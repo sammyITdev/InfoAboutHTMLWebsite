@@ -2,7 +2,7 @@
 Description: Are you new to programming? If so, then take a look at this simple blog post that will teach you about the basics of HTML; a popular programming language!
 
 ## Deployment
-Here is the deployed website at: https://basic-info-about-html-blog-post.netlify.app/
+Here is the deployed website at: <a href="https://basic-info-about-html-blog-post.netlify.app/">HTML Blog Post</a>
 
 ## Built With
 * HTML
@@ -42,4 +42,5 @@ SOFTWARE.
 ## Acknowledgements
 
 * Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
-* Here is the website at Udemy ➡️ https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512022#overview
+* <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512022#overview">Here is the website at Udemy ➡️</a>
+* Netlify
